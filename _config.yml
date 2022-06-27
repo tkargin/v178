@@ -77,5 +77,6 @@ analytics:
   google:
     tracking_id: UA-92432422-1
 orig_bibfile: "/Users/neil/mlresearch/v178/COLT2022_bibliography.bib"
+future: True
 # Site settings
 # Original source:  /Users/neil/mlresearch/v178/COLT2022_bibliography.bib
