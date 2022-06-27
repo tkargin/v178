@@ -1,0 +1,81 @@
+---
+booktitle: Proceedings of Thirty Fifth Conference on Learning Theory
+shortname: COLT
+volume: '178'
+year: '2022'
+start: 2022-07-02
+end: 2022-07-05
+published: 2022-06-28
+conference_number: '35'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: COLT2022
+month: 0
+cycles: false
+bibtex_editor: Loh, Po-Ling and Raginsky, Maxim
+editor:
+- given: Po-Ling
+  family: Loh
+- given: Maxim
+  family: Raginsky
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of Thirty Fifth Conference on Learning Theory
+    Held in London, UK on 02-05 July 2022
+
+  Published as Volume 178 by the Proceedings of Machine Learning Research on 28 June 2022.
+
+  Volume Edited by:
+    Po-Ling Loh
+    Maxim Raginsky
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 02--05 Jul
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v178"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v178
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v178
+email: ''
+conference:
+  name: Conference on Learning Theory
+  url: http://www.learningtheory.org/colt2022/index.html
+  location: London, UK
+  dates:
+  - 2022-07-02
+  - 2022-07-03
+  - 2022-07-04
+  - 2022-07-05
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v178/COLT2022_bibliography.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v178/COLT2022_bibliography.bib
