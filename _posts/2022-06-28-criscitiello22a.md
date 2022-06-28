@@ -29,10 +29,10 @@ lastpage: 542
 page: 496-542
 order: 496
 cycles: false
-bibtex_author: CRISCITIELLO, Christopher and Boumal, Nicolas
+bibtex_author: Criscitiello, Christopher and Boumal, Nicolas
 author:
 - given: Christopher
-  family: CRISCITIELLO
+  family: Criscitiello
 - given: Nicolas
   family: Boumal
 date: 2022-06-28
